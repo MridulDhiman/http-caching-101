@@ -57,8 +57,6 @@ In our example, we have `/user` endpoint with JSON response.
 --- 
 
 
-![Cached Response](images/image-1.png)
-
 ## Shared Cache
 
 It is cache that can be shared among other users and is located between client and server (as a proxy, cdn server etc.). 
