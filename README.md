@@ -57,6 +57,7 @@ In our example, we have `/user` endpoint with JSON response.
 --- 
 
 
+![Cached Response](images/image-1.png)
 
 ## Shared Cache
 
