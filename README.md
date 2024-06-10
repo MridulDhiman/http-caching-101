@@ -47,11 +47,11 @@ In our example, we have `/user` endpoint with JSON response.
 
 *Original Response*:  
 
-![Original Response](/images/image-2.png)
+![Original Response](images/image-2.png)
 
 *Cached Response*: 
 
-![Cached Response](/images/image-1.png)
+![Cached Response](images/image-1.png)
 
 ## Shared Cache
 
