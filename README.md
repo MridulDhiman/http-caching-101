@@ -65,6 +65,3 @@ It is also of two types:
 1. Proxy Cache
 2. Managed Cache
 
-
-## Proxy Cache 
-
